@@ -33,7 +33,7 @@ I'm Sugiana, Fullstack Web Developer from <img src="https://hatscripts.github.io
 
 ##### Socials Media
 
-![https://instagram.com/devcode.gihh](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.tiktok.com/@ugihhhhh](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) ![https://www.linkedin.com/in/mochamad-sugiana-s-85764a341](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/devcode.gihh) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)]([https://www.tiktok.com/@ugihhhhh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mochamad-sugiana-s-85764a341)
 
 <hr>
 
